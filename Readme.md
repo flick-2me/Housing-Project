@@ -298,20 +298,16 @@ This dashboard can help:
 # 🔗 Project Links
 
 ## Live Dashboard
-[View the Live Interactive Dashboard](Insert_Your_Publish_To_Web_Link_Here)
+[View the Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Y5MTQzZGQtMjVlNS00ZTE5LThlNTgtMjllYjY2NDFiMjljIiwidCI6IjhmYmUwNDFmLTBjMDMtNDgxMS1iZTMzLWZlYWNhZGY2NTE3YiJ9)
 
 ## GitHub Repository
-[GitHub Repository](Insert_Your_GitHub_Repository_Link_Here)
-
-## LinkedIn
-[Connect on LinkedIn](Insert_Your_LinkedIn_Link_Here)
+[GitHub Repository](https://github.com/flick-2me/Housing-Project.git)
 
 ---
 
 # 👨‍💻 Developed By
 
 **Shubham Chaudhary**  
-Civil Engineering Student | Aspiring Data Analyst | Business Intelligence Enthusiast
 
 ### Skills
 - SQL
@@ -324,7 +320,7 @@ Civil Engineering Student | Aspiring Data Analyst | Business Intelligence Enthus
 
 ---
 
-# ⭐ Final Note
+# ⭐ Conclusion
 
 This project was designed to simulate a real-world enterprise Business Intelligence workflow — from cloud-based data engineering and SQL preprocessing to advanced DAX analytics and executive-level dashboard reporting.
 
