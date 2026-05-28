@@ -68,7 +68,8 @@ Real-Estate-Analytics/
 ├── Screenshots/
 │   ├── dashboard1.png
 │   ├── dashboard2.png
-│   ├── dashboard3.png ```  
+│   ├── dashboard3.png
+```  
 
 ## ⚙️ Data Engineering & SQL Processing
 
